@@ -33,7 +33,7 @@ class MainActivity : ComponentActivity() {
 }
 
 var play = true
-var randomNum: Int = Random.nextInt(1, 5)
+var randomNum: Int = Random.nextInt(1, 1000)
 var count = 0
 
 
