@@ -77,7 +77,7 @@ fun NumberGuessingGame() {
     Column(
         modifier = Modifier.padding(all = 20.dp),
         horizontalAlignment = Alignment.CenterHorizontally,
-        verticalArrangement = Arrangement.SpaceBetween
+        verticalArrangement = Arrangement.Center
     )
 
     {
